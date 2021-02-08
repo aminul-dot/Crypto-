@@ -32,7 +32,9 @@ https://linux-kernel-labs.github.io/master/labs/interrupts.html] ):-
 
 6- now, open your terminal and go to the directory where u have stored the program
 
-7- now type the following command:  g++ AES.cpp -o AesOutput -lcryptopp
+7- now type the following command: 
+
+     g++ AES.cpp -o AesOutput -lcryptopp
 
 8- now write the following: ./AesOutput
 
