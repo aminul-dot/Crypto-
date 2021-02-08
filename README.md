@@ -1,4 +1,4 @@
-# Crypto-
+# Cryptopp Library
 
 Platform to be used: UNIX (Mandatory)
 Background Knowledge Required: C++ Programming on UNIX System
