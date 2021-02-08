@@ -17,7 +17,7 @@ https://linux-kernel-labs.github.io/master/labs/interrupts.html] ):-
 # 3. SHA-1
 # 4. SHA-512
 
-# Installation Crypto++
+# Installation Crypto++ library
 
 1- Open your terminal 
 
